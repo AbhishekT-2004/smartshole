@@ -1,0 +1,8 @@
+{
+  "name": "SmartSole - AI-Powered Footwear Platform & Shopping Assistant",
+  "description": "SmartSole is an AI-powered footwear e-commerce platform featuring an interactive AI Chatbot Stylist, high-res zoom galleries, dedicated checkout, order and payment history tracking, and admin order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
